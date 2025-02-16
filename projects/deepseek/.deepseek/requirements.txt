@@ -1,0 +1,6 @@
+"fastapi[standard]"
+ollama
+python-jose
+python-dotenv
+psycopg2-binary
+sqlmodel
